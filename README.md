@@ -67,7 +67,7 @@ The project uses **Matplotlib** to create visualizations such as:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/likithatummapala/Student-Marks-Details.git
+git clone https://github.com/ardhianeeshkumar-commits/Marks-sheet-of-Student-.git
 ```
 
 ### 2. Open the Project Folder
@@ -135,10 +135,9 @@ The project can be further improved by adding:
 
 ## 👩‍💻 Author
 
-**Likitha Tummapala**
+**ANEESH KUMAR**
 
-GitHub:  
-https://github.com/likithatummapala
+GitHub: https://github.com/ardhianeeshkumar-commits
 
 ## 📜 License
 
